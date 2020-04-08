@@ -13,7 +13,7 @@ public class digitalSignatureStartingCode {
 
     public static void main(String[] args) throws Exception {
     //Read the text file and save to String data
-        String fileName = "C:\\Users\\kting\\AndroidStudioProjects\\CSELab5\\EncryptionLab\\src\\main\\java\\com\\example\\encryptionlab\\longtext.txt";;
+        String fileName = "longtext.txt";;
         String data = "";
         String line;
         BufferedReader bufferedReader = new BufferedReader( new FileReader(fileName));

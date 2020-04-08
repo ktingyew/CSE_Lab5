@@ -11,7 +11,7 @@ import java.util.Base64;
 //digitalSignatureStartingCode.java
 public class DigitalSignatureSolution {
     public static void main(String[] args) throws Exception {
-        String fileName = "C:\\Users\\kting\\AndroidStudioProjects\\CSELab5\\EncryptionLab\\src\\main\\java\\com\\example\\encryptionlab\\shorttext.txt";
+        String fileName = "shorttext.txt";
         String data = "";
         String line;
         BufferedReader bufferedReader = new BufferedReader( new FileReader(fileName));

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e81b1cc-a589-40e6-83fb-f5f45c723379" name="Default Changelist" comment="" />
+    <list default="true" id="1e81b1cc-a589-40e6-83fb-f5f45c723379" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/desImageStartingCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desImageStartingCode.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CSE_Lab5" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aFgmaVEZu1QOY0vUVNYM2f3VpB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,6 +21,34 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.digitalSignatureStartingCode">
+    <configuration name="desImageStartingCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desImageStartingCode" />
+      <module name="CSE_Lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="digitalSignatureStartingCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.encryptionlab.digitalSignatureStartingCode" />
+      <module name="CSE_Lab5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.encryptionlab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.digitalSignatureStartingCode" />
+        <item itemvalue="Application.desImageStartingCode" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,5 +62,23 @@
       <updated>1586336915641</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1492" height="248" key="GridCell.Tab.0.bottom" timestamp="1586337709546">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="248" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586337709546" />
+    <state width="1492" height="248" key="GridCell.Tab.0.center" timestamp="1586337709545">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="248" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586337709545" />
+    <state width="1492" height="248" key="GridCell.Tab.0.left" timestamp="1586337709545">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="248" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586337709545" />
+    <state width="1492" height="248" key="GridCell.Tab.0.right" timestamp="1586337709546">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="248" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586337709546" />
   </component>
 </project>

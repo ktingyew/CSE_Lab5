@@ -1,4 +1,3 @@
-package com.example.encryptionlab;
 
 
 import java.lang.Object;
@@ -15,7 +14,7 @@ public class desImageStartingCode {
         int image_width = 200;
         int image_length = 200;
 
-        String fileName = "C:\\Users\\kting\\AndroidStudioProjects\\CSELab5\\EncryptionLab\\src\\main\\java\\com\\example\\encryptionlab\\SUTD.bmp";
+        String fileName = "SUTD.bmp";
 
         // read image file and save pixel value into int[][] imageArray
         BufferedImage img = ImageIO.read(new File(fileName));
@@ -72,6 +71,6 @@ public class desImageStartingCode {
 
         }
         //write outImage into file
-        ImageIO.write(outImage, "BMP",new File("C:\\Users\\kting\\AndroidStudioProjects\\CSELab5\\EncryptionLab\\src\\main\\java\\com\\example\\encryptionlab\\ECB_SUTD.bmp"));
+        ImageIO.write(outImage, "BMP",new File("ECB_SUTD.bmp"));
     }
 }
