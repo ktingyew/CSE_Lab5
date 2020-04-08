@@ -4,7 +4,7 @@
 
 Link to handout (containing the information and questions) is provided in the link:
 
-[Google Docs]: https://docs.google.com/document/d/1rdaoR-MLJjrWmuXajaKhBNKAQ4hwMyMLxrbAXL5XdYY/edit	"Encryption Lab"
+https://docs.google.com/document/d/1rdaoR-MLJjrWmuXajaKhBNKAQ4hwMyMLxrbAXL5XdYY/edit
 
 In the case where the link is down, there is a saved .pdf version, last accessed 08 April 2020.
 
